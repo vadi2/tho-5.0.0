@@ -21,7 +21,7 @@ publisher:
   # email: test@example.org
 
 dependencies:
-  hl7.terminology: 5.0.0
+  hl7.terminology.r4: 5.0.0
 
 # The dependencies property corresponds to IG.dependsOn. The key is the
 # package id and the value is the version (or dev/current). For advanced
